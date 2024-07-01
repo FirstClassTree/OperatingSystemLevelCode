@@ -1,0 +1,12 @@
+total 44
+drwxrwxrwx 1 phoenix phoenix  4096 Jun 30 20:10 .
+drwxrwxrwx 1 phoenix phoenix  4096 Jun 25 09:06 ..
+-rwxrwxrwx 1 phoenix phoenix 13464 Jun 30 20:06 a.out
+-rwxrwxrwx 1 phoenix phoenix    12 Jun 27 09:13 balh.txt
+-rwxrwxrwx 1 phoenix phoenix   235 Jun 27 09:21 h.txt
+-rwxrwxrwx 1 phoenix phoenix     5 Jun 30 20:07 he4.txt
+-rwxrwxrwx 1 phoenix phoenix    34 Jun 27 09:15 hey.txt
+-rwxrwxrwx 1 phoenix phoenix 13456 Jun 30 13:32 my_program
+-rwxrwxrwx 1 phoenix phoenix  7321 Jun 30 20:06 myshell.c
+-rwxrwxrwx 1 phoenix phoenix     0 Jun 30 20:10 output.txt
+-rwxrwxrwx 1 phoenix phoenix  1363 Jun 25 09:06 shell.c
