@@ -2,6 +2,11 @@
     "files.associations": {
         "stdlib.h": "c",
         "stdio.h": "c",
-        "signal.h": "c"
+        "signal.h": "c",
+        "atomic": "c",
+        "memory": "c",
+        "stdbool.h": "c",
+        "xutility": "c",
+        "queue.h": "c"
     }
 }

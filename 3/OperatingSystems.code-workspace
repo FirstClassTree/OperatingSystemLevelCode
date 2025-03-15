@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"stdlib.h": "c",
+			"stdio.h": "c",
+			"signal.h": "c",
+			"fcntl.h": "c",
+			"message_slot.h": "c"
+		}
+	}
+}
